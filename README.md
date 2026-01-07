@@ -123,9 +123,7 @@ We solve the constrained revenue-maximization problem using discrete price candi
 ### 1) Install dependencies
 Create a virtual environment and install:
 
-```bash
 pip install -U pandas numpy scikit-learn lightgbm catboost
-
 
 ### 2) Run the script
 python rohlik_solution.py
