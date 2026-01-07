@@ -29,6 +29,9 @@ Important requirement:
 
 ## 2) Inputs and Outputs
 
+- `Rohlik_assignment.py` — main end-to-end solution script (forecasting + demand modeling + pricing optimization)
+- `Data_analysis.ipynb` — notebook for **EDA and visualization** (raw data + forecasts + optimized pricing)
+
 ### Inputs
 - `ml_task_data.csv`
 
