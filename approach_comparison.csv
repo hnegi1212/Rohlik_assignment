@@ -1,0 +1,3 @@
+approach,total_expected_revenue,total_expected_profit,profit_constraint,feasible
+A2_greedy_repair,525785.8478316616,160943.7572025429,159146.19,True
+A3_lagrangian,525785.8478316615,160943.7572025429,159146.19,True
